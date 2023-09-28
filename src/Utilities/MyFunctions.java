@@ -1,4 +1,4 @@
-package Selenium.Utilities;
+package Utilities;
 
 public class MyFunctions {
     public static void Bekle(int s) {
